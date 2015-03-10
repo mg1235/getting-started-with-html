@@ -1,0 +1,14 @@
+HTML Tags
+
+<b> - bold content, </b> - close bold
+<em> italisize, </em> close
+<a href"url to link"> {content you want to appear} </a>
+<img src"uri to location of image" alt="uri to alternate image">
+<br> - creates and inline line break
+<p> - paragraph content </p> - close paragraph
+
+*** Note: Void tags don't have closing "/" tags; ie <br>, <img>
+
+<span> </span>
+<div> </div>
+Strong and form are other tags
